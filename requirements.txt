@@ -3,3 +3,4 @@ openai
 dotenv
 csv
 schedule
+snowflake.conector
